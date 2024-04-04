@@ -1,21 +1,4 @@
 
-selenium :
-=========
---  Selenium is a powerful open-source framework that enables automated testing of web applications across multiple browsers and platforms
--- to automate repetitive tasks, test web applications, and ensure their functionality across different browsers and platforms.
---  With Selenium framework, manual testing efforts are minimized,testers are able to deliver test cycles faster by automating repeated test cases.
---  Selenese is the language used to write selenium commands
-
-Component:
-1. Selenium IDE
-2. Selenium RC
-3. Selenium Grid
-4. Selenium WebDriver
-
-webdriver  - I   (chromedriver and others -C  )
-================================================
--- Selenium WebDriver is a web framework that permits you to execute cross-browser tests. This tool is used for automating web-based application testing to verify that it performs expectedly.
-
 Selenium WebDriver allows you to choose a programming language to create test scripts
 
 
